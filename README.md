@@ -1,3 +1,4 @@
 # khushi-demo
+
 This is my first repo <br>
-Autho- khushi Gupta
+Autho- khushi (gupta)
